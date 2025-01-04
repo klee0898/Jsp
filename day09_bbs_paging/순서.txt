@@ -1,0 +1,12 @@
+#1. day07_review 프로젝트의 구조
+    - controller, model 패키지생성
+    - webapp/board 폴더생성
+    - webapp/index.jsp
+
+#2. 테이블 생성 - board2
+
+#3. DTO 생성
+
+#4. 글쓰기 뷰(board/write.jsp)
+
+#5. Controller, DAO 순으로 ...
