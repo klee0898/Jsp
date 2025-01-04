@@ -1,0 +1,15 @@
+Q> 아래 명시된 요구사항에 따라 구현하시오. 
+  #요구사항 1>
+   login/main.jsp(로그인폼) 에서 로그인버튼을 클릭
+   --> 리다이렉트 컨트롤러(Rd_login.java), url패턴(rdLogin.do)
+   --> 로그인 성공시 --> index.jsp(test님 환영합니다.)
+   --> 로그인 실패시 --> login/main.jsp
+
+  #요구사항 2>
+  login/main.jsp(로그인폼) 에서 로그인버튼을 클릭
+   --> 포워드 컨트롤러(Fw_login.java), url패턴(fwLogin.do)
+   --> UserDTO 활용
+   --> 로그인 성공시 --> index.jsp(test님 환영합니다.)
+   --> 로그인 실패시 --> login/main.jsp
+
+     
